@@ -11,5 +11,4 @@ Loops
 Quotes
 Exit Status
 Inputs
-SED Editor -> Parking for later time
-We are going to learn BASH SHELL
+SED Editor
